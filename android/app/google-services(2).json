@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943755853392",
+    "firebase_url": "https://todosjuntosdispositivosmoviles.firebaseio.com",
+    "project_id": "todosjuntosdispositivosmoviles",
+    "storage_bucket": "todosjuntosdispositivosmoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943755853392:android:5cb111141cd39d000fdb55",
+        "android_client_info": {
+          "package_name": "com.example.control_classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943755853392-da6c7l1ce9bt5f6b1dhkkf713om04jq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDuykjKKcvI8oyAXkSaaLney8yqSJjKb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943755853392-da6c7l1ce9bt5f6b1dhkkf713om04jq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
